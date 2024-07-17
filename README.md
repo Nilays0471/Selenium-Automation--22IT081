@@ -1,11 +1,18 @@
 # Selenium-Automation 
 
 You can find codes to access a chrome webdriver using selenium in python. Currently it contains automation tests carried out on 'https://glexas.com/hostel/login'.
+The internship was based on website testing so we had to handle 25 test cases a day on different modules like parent, student, counsellor, rector etc.
 
 WEEKLY REPORT
 Summer Internship 2024
 
 Week No : 1		 Duration : 5-May-2024 : 9-May-2024
+
+5 may : Selenium setup
+6 may : Downloading chromdriver, libraries and extensions
+7 may : Manual Buglisting on Test website
+8 may : Manual Buglisting on Test website
+9 may : Creating and automation code to login to facebook
 
 Summary of Work done the week (Attach supporting Documents):
 • Introduction of Company and Internship plan
